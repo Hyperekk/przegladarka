@@ -20,15 +20,23 @@ public class HelloController {
         wb1.getEngine().load("https://google.com");
     }
 
-    public void onClick1(ActionEvent actionEvent) {
+    public void onClick1(ActionEvent actionEvent)
+    {
+        wb1.getEngine().load("https://www.onet.pl");
     }
 
-    public void onClick2(ActionEvent actionEvent) {
+    public void onClick2(ActionEvent actionEvent)
+    {
+        wb1.getEngine().load("https://www.wp.pl");
     }
 
-    public void onClick3(ActionEvent actionEvent) {
+    public void onClick3(ActionEvent actionEvent)
+    {
+        wb1.getEngine().load("https://www.interia.pl");
     }
 
-    public void onClick5(ActionEvent actionEvent) {
+    public void onClick4(ActionEvent actionEvent)
+    {
+        wb1.getEngine().load("https://www.gazeta.pl/0,0.html");
     }
 }

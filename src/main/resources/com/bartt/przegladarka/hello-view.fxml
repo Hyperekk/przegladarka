@@ -9,7 +9,7 @@
       <Button fx:id="btn1" layoutX="53.0" layoutY="21.0" mnemonicParsing="false" onAction="#onClick1" prefHeight="50.0" prefWidth="88.0" text="ONET" />
       <Button fx:id="btn2" layoutX="181.0" layoutY="21.0" mnemonicParsing="false" onAction="#onClick2" prefHeight="50.0" prefWidth="88.0" text="WP" />
       <Button fx:id="btn3" layoutX="320.0" layoutY="21.0" mnemonicParsing="false" onAction="#onClick3" prefHeight="50.0" prefWidth="88.0" text="INTERIA" />
-      <Button fx:id="btn4" layoutX="455.0" layoutY="21.0" mnemonicParsing="false" onAction="#onClick5" prefHeight="50.0" prefWidth="88.0" text="GAZETA.PL" />
+      <Button fx:id="btn4" layoutX="455.0" layoutY="21.0" mnemonicParsing="false" onAction="#onClick4" prefHeight="50.0" prefWidth="88.0" text="GAZETA.PL" />
       <WebView fx:id="wb1" layoutX="-13.0" layoutY="99.0" prefHeight="301.0" prefWidth="589.0" />
    </children>
 </Pane>
